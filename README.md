@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**JackLau1222/JackLau1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<--
 
 - 🔭 I’m currently working on TSGUAS
 - 🌱 I’m currently learning Machine Learning,Computer Vision and so on...
