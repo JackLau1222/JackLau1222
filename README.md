@@ -9,5 +9,5 @@
 - 💬 Ask me about C/C++,python
 - 📫 How to reach me: jacklau1222@foxmail.com
 - 😄 Pronouns: complicated
-- ⚡ Fun fact: I am a host of my university's open source community    
+- ⚡ Fun fact: I am a host of [my university's open source community](https://github.com/TSGU-OSC)    
 
