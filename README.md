@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on TSGUAS
+- 🔭 I’m currently working on [TSGU-OSC](https://osc.tsguas.cn)
 - 🌱 I’m currently learning Machine Learning,Computer Vision and so on...
 - 👯 I’m looking to collaborate on FFmpeg...
 - 🤔 I’m looking for help with developers who are in audio and video codec
