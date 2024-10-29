@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on [TSGU-OSC](https://osc.tsguas.cn)
+- 🔭 I’m currently working at [TSGU-OSC](https://osc.tsguas.cn)
 - 🌱 I’m currently learning Digital image-processing, Machine Learning, Computer Vision and so on...
 - 👯 I’m looking to collaborate on FFmpeg...
 - 🤔 I’m looking for help with developers who are in Digital image-processing
