@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Jack Lau<img src="https://github.com/JackLau1222/JackLau1222/blob/main/img/Hi.gif" height="32" /></h1>
 
-<br />
-<a href="mailto:jacklau1222gm@gmail.com"><img src="https://github.com/isPainting/isPainting/raw/main/images/social-mail.svg" height="40" /></a>
-<br />
-
 
 - 🔭 I’m currently working at [TSGU-OSC](https://osc.tsguas.cn) and [BabitMF](https://github.com/BabitMF/bmf)
 - 🌱 I’m currently learning Digital image-processing, Machine Learning, Computer Vision and so on...
