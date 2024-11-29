@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jack Lau<img src="https://github.com/JackLau1222/JackLau1222/blob/main/img/Hi.gif" height="32" /></h1>
+<h1 align="center">Hi there, I'm Jack Lau <img src="https://github.com/JackLau1222/JackLau1222/blob/main/img/Hi.gif" height="32" /></h1>
 
 
 - 🔭 I’m currently working at [TSGU-OSC](https://osc.tsguas.cn) and [BabitMF](https://github.com/BabitMF/bmf)
