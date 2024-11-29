@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Jack Lau<img
-src="https://github.com/JackLau122/JackLau122/raw/main/images/Hi.gif" height="32" /></h1>
+<h1 align="center">Hi there, I'm Jack Lau<img src="https://github.com/JackLau122/JackLau122/raw/main/images/Hi.gif" height="32" /></h1>
 
 <br />
 <a href="mailto:jacklau1222gm@gmail.com"><img src="https://github.com/isPainting/isPainting/raw/main/images/social-mail.svg" height="40" /></a>
