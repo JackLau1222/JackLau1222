@@ -7,6 +7,4 @@
 - 🤔 I’m looking for help with developers who are in Digital image-processing
 - 💬 Ask me about C/C++, python
 - 📫 How to reach me: jacklau1222gm@gmail.com
-- 😄 Pronouns: complicated
 - ⚡ Fun fact: I am a host of [my university's open source community](https://github.com/TSGU-OSC)    
-
