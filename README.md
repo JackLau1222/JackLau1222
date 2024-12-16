@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jack Lau <img src="https://github.com/JackLau1222/JackLau1222/blob/main/img/Hi.gif" height="32" /></h1>
 
 
-- 🔭 I’m currently working at [TSGU-OSC](https://osc.tsguas.cn) and [Bytedance BabitMF](https://github.com/BabitMF)
+- 🔭 I’m currently working at [TSGU-OSC](https://osc.tsguas.cn) and [ByteDance BabitMF](https://github.com/BabitMF)
 - 🌱 I’m currently learning Digital image-processing, Machine Learning, Computer Vision and so on...
 - 👯 I’m looking to collaborate on FFmpeg...
 - 🤔 I’m looking for help with developers who are in Digital image-processing
