@@ -27,5 +27,5 @@
 
 ---
 
-> *“Code is a conversation—let’s keep talking.”*
+> *“Talk is cheap, show me the code”*
 
