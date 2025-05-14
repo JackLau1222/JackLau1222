@@ -18,7 +18,7 @@
 | Project | Role & Dates | Key Contributions |
 | ------- | ------------ | ----------------- |
 | **BMF – ByteDance Multimedia Framework**<br/>[PR #129](https://github.com/BabitMF/bmf/pull/129) · [OSPP article](https://mp.weixin.qq.com/s/llu2Od-UPYMWi09iNvO93g) | **[OSPP](https://summer-ospp.ac.cn) Contributor**<br/>Jun 2024 → Oct 2024 | • Added local-distributed data‑sharding & aggregation<br/>• Designed the new *Internal Node* to boost framework ability |
-| **WHIP in FFmpeg** – WebRTC‑HTTP Ingestion Protocol<br/>[GSoC page](https://summerofcode.withgoogle.com/programs/2025/projects/CjXkqCQX) | **[GSoC](https://summerofcode.withgoogle.com) Contributor**<br/>May 2025 → Present | • Integrated DTLS into `tls_openssl.c` (custom BIOs, UDP orchestration)<br/>• Implemented multi‑version OpenSSL compatibility, key management, and full handshake logic |
+| **WHIP Implementation in FFmpeg** – WebRTC‑HTTP Ingestion Protocol<br/>[GSoC page](https://summerofcode.withgoogle.com/programs/2025/projects/CjXkqCQX) | **[GSoC](https://summerofcode.withgoogle.com) Contributor**<br/>May 2025 → Present | • Integrated DTLS into `tls_openssl.c` (custom BIOs, UDP orchestration)<br/>• Implemented multi‑version OpenSSL compatibility, key management, and full handshake logic |
 
 ---
 
