@@ -4,7 +4,7 @@
 </h1>
 
 <!-- —―――――――――――――――――  Quick Facts  ――――――――――――――――― -->
-- 🔭 **Current gig:** [FFmpeg](https://ffmpeg.org) Contributor • [BabitMF](https://babitmf.github.io) Maintainer
+- 🔭 **Current gig:** [FFmpeg](https://ffmpeg.org) WHIP developer • [BabitMF](https://babitmf.github.io) Maintainer
 - 🌱 **Learning:** Digital Image Processing • Streaming Media • Computer Vision
 - 👯 **Open to collab on:** FFmpeg, WebRTC, BMF, multimedia tooling  
 - 💬 **Ask me about:** C/C++, Python  
